@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Monk 28 1.2E (5)
+NtWKXUSYaQ4TcGRPm8f89wdasZ4pah8Ub5YxYBKTGC4ttByGhwHR7XgvLgbmNyeYVkeL7c", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

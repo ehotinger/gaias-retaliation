@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Bishop 25 1.2E (5)
+Mfvm2vs5s25gtSRuwgazAD2gbyuNH8BS2XhE9XLCdg9GKucWduCYCYgLVSyhb6uA3GtPmP", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

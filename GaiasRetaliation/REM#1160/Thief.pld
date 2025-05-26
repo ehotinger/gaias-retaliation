@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Thief 1 1.2E (4)
+YazHYLhWmwmuaq5fsW23h3xadCfatYQUefKFCCbWw7wa3pYpHCXZFw7e3EGvN7u6A7685h", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

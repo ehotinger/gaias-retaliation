@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Mystic 9 1.2E (4)
+s2LK89Uh2xYzQVgcBTLW5zUKVGnhRtNrCkmWyLY9kDP7H4SnLfZR9XV3hrpmscvut64HVk", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

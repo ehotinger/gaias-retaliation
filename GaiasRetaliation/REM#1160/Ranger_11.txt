@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Ranger 11 1.2E (5)
+ZF7ckQauRPbkVWhWScK93zLEzRcMdQHL7bEpV75trdtp5CN9HQ8cyyskGR4NBQKtQxsTUw", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

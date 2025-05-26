@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Druid 39 1.2E (5)
+GzUqDz2wpBS4LLv9EErtzzNMGusTdZ6LkzvEb6pTrasZmaZWC28FxAY2NpAWBLuSrsdyEN", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

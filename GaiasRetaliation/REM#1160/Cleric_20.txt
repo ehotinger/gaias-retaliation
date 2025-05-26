@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "-Cleric 20 1.2E (5)
+5dHNepzkVpbNEQwL9Yykt5wt7TabHRsHh9SnaF4m33eYhyVUmaKkmyeLBTb2RG26DESbpN", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
